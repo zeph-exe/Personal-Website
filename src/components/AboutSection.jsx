@@ -20,7 +20,7 @@ export const AboutSection = () => {
                         <p className="text-muted-foreground">
                             I'm a self-taught developer and I strive to learn new things everyday,
                             whether it's a new programming language, framework, or design pattern.
-                            But I have my main interest such as Cybersecurity. I
+                            But I have my main interest such as Cybersecurity. 
                         </p>
 
                         <p className="text-muted-foreground">
